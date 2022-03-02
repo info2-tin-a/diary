@@ -5,7 +5,8 @@ Sachez qu'il est des circonstances dans la vie ou l'homme quelqu'intelligent qu'
 Néanmoins, vous trouverez ci-dessous le rapport comptable sur la vente de stylos modèle Grand Luxe:
 
 2021-01-23 Vendu 23 stylos 
-2021-02-08 Vendi 16 stylos 
+2021-02-08 Vendu 16 stylos 
+2022-01-01 Vendu 1 stylo 
 
 Comme vous le constatez, nous n'avons pas eu une année très bonne. Permettez-moi de démissionner.
 
